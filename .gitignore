@@ -1,0 +1,6 @@
+*.exe
+*.out
+*.txt
+!CMakeLists.txt
+.vscode/
+build/
